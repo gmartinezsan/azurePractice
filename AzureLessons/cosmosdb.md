@@ -59,7 +59,7 @@ In this exercise we'll look into CosmosDB Emulator to see how you can interact w
 
 ## More info
 
-For more info about CosmosDb and bindings for Azure Functions have a look at the official [Azure CosmosDb Bindings] (https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2) documentation.
+For more info about CosmosDb and bindings for Azure Functions have a look at the official [Azure CosmosDb Bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2) documentation.
 
 ---
 [◀ Previous lesson](cosmos.md) | [🔼 Index](_index.md) | [Next lesson ▶](table.md)
