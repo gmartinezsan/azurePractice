@@ -12,7 +12,7 @@ This lessons consists of the following exercises:
 |2|Using the CosmosDB output binding
 |3|Using the CosmosDB input binding
 |4|Creating a CosmosDB Trigger function
-|5|Using Azure KeyVault for storing the connectionstring
+|5|Using Azure KeyVault for storing the connection string
 |6|Reusing the CosmosDB connection with dependency injection
 |7|Deploying to Azure
 
@@ -43,11 +43,11 @@ In this exercise we'll look into CosmosDB Emulator to see how you can interact w
 ### Steps
 
 
-## 5. Using KeyVault for the connectionstring 
+## 5. Using KeyVault for the connection string 
 
 ### Steps
 
-## 6. Reusing the CosmosDB connection (dependency injection)
+## 6. Reusing the CosmosDB connection with dependency injection
 
 ### Steps
 
