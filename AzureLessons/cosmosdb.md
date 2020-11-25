@@ -1,10 +1,8 @@
-# Queue Trigger & Bindings
+# Cosmos DB Trigger & Bindings
 
 ## Goal 🎯
 
-The goal of this lesson is to learn how to 
-
-
+The goal of this lesson is to learn how to trigger a function by adding a document to CosmosDB, and how you can use input and output bindings for CosmosDB documents.
 
 This lessons consists of the following exercises:
 
@@ -14,9 +12,9 @@ This lessons consists of the following exercises:
 |2|Using the CosmosDB output binding
 |3|Using the CosmosDB input binding
 |4|Creating a CosmosDB Trigger function
-|5|Using KeyVault for the connectionstring
-|6|Reusing the CosmosDB connection (dependency injection)
-|7|Deployment to Azure
+|5|Using Azure KeyVault for storing the connectionstring
+|6|Reusing the CosmosDB connection with dependency injection
+|7|Deploying to Azure
 
 > 📝 **Tip** - If you're stuck at any point you can have a look at the [source code](../src/AzureFunctions.Queue) in this repository
 
@@ -53,7 +51,7 @@ In this exercise we'll look into CosmosDB Emulator to see how you can interact w
 
 ### Steps
 
-## 7. Deployment to Azure
+## 7. Deploying to Azure
 
 ### Steps
 
