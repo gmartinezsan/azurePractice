@@ -16,7 +16,7 @@ This lessons consists of the following exercises:
 |6|Reusing the CosmosDB connection with dependency injection
 |7|Deploying to Azure
 
-> 📝 **Tip** - If you're stuck at any point you can have a look at the [source code](../src/AzureFunctions.Queue) in this repository
+> 📝 **Tip** - If you're stuck at any point you can have a look at the [source code](../src) in this repository
 
 ---
 
